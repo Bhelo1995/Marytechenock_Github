@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../../../Downloads/zonebiz"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "zonebiz"
+	}
+}
