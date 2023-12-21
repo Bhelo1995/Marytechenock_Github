@@ -21,7 +21,7 @@
             <div class="col-12 text-center">
                 <h1 class="display-4 text-white">Our Services</h1>
                 <i class="far fa-award text-primary px-2"></i>
-                <a href="../index.html">Home</a>
+                <a href="index.php">Home</a>
                 <i class="far fa-award text-primary px-2"></i>
                 <a href="">Services</a>
             </div>
@@ -36,61 +36,63 @@
             <div class="col-lg-4 col-md-6">
                 <div class="service-item bg-secondary text-center px-3">
                     <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4" style="width: 60px; height: 60px;">
-                        <i class="fa -user-tie fa-2x"></i><img class="w-100" src="../img/Marytech Logo_Red-03.png" alt="Image">
+                        <i class="fa -user-tie fa-2x"></i><img class="w-100" src="./img/Marytech Logo_Red-03.png" alt="Image">
                     </div>
                     <h5 class="mb-3">Digital Transformation Service</h5>
                     <p class="mb-0">Our consultants recognize there is no one-size-fits-all solution. We work with our clients to develop a tailored digital strategy and select a software to best support it.</p>
-                    <a href="../html/services/digital-transformation.html" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
+                    <a href="./html/services/digital-transformation.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item bg-secondary text-center px-3">
                     <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4" style="width: 60px; height: 60px;">
-                        <i class="fa -chart-pie fa-2x"></i><img class="w-100" src="../img/Marytech Logo_Red-03.png" alt="Image">
+                        <i class="fa -chart-pie fa-2x"></i><img class="w-100" src="./img/Marytech Logo_Red-03.png" alt="Image">
                     </div>
                     <h5 class="mb-3">Business & Technology Advisory</h5>
                     <p class="mb-0">We build visually stunning websites that engage visitors and prompt them to take action. Our design process begins with brand research and collaboration on site architecture and visual style and maintains a strict adherence to user interface design practices.</p>
-                    <a href="../html/services/Business-&-technology-Advisory.html" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
+                    <a href="./html/services/Business-&-technology-Advisory.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item bg-secondary text-center px-3">
                     <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4" style="width: 60px; height: 60px;">
-                        <i class="fa -chart-line fa-2x"></i><img class="w-100" src="../img/Marytech Logo_Red-03.png" alt="Image">
+                        <i class="fa -chart-line fa-2x"></i><img class="w-100" src="./img/Marytech Logo_Red-03.png" alt="Image">
                     </div>
                     <h5 class="mb-3">Organizational Change Management</h5>
                     <p class="mb-0">New or improved technology is meaningless unless it is accepted by an organization's employees. We assist customers in overcoming change resistance, mapping out future roles and duties, and ensuring a smooth transition.</p>
-                    <a href="../html/services/organisational-change-management.html" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
+                    <a href="./html/services/organisational-change-management.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item bg-secondary text-center px-3">
                     <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4" style="width: 60px; height: 60px;">
-                        <i< /i><img class="w-100" src="../img/Marytech Logo_Red-03.png" alt="Image">
+                        <i< /i><img class="w-100" src="./img/Marytech Logo_Red-03.png" alt="Image">
                     </div>
                     <h5 class="mb-3">digital-marketing</h5>
                     <p class="mb-0">We specialize in designing and launch targeted Facebook, LinkedIn, Instagram, or Google ads, using an allocated Ads Budget, for increased engagement and a larger following, as and when the client advises, upon mutual agreement of the budget to be spent for such paid marketing.</p>
-                    <a href="../html/services/digital-marketing.html" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
+                    <a href="./html/services/digital-marketing.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item bg-secondary text-center px-3">
                     <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4" style="width: 55px; height: 55px;">
-                        <i class="-chart-area fa-2x"></i><img class="w-100" src="../img/Marytech Logo_Red-03.png" alt="Image">
+                        <i class="-chart-area fa-2x"></i><img class="w-100" src="./img/Marytech Logo_Red-03.png" alt="Image">
                     </div>
                     <h5 class="mb-3">Mobile and Web Application development</h5>
                     <p class="mb-0">We deliver top-quality native mobile app development services to clients in various industries, we help to bring developed applications quickly to market. We build hybrid web application with standard web technologies such as, JavaScript, CSS, and HTML5 and we bundle them as app installation packages. </p>
-                    <a href="../html/services/mobile-and-web-app-dev.html" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
+                    <a href="./html/services/mobile-and-web-app-dev.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item bg-secondary text-center px-3">
                     <div class="d-flex align-items-center justify-content-center bg-primary text-white rounded-circle mx-auto mb-4" style="width: 55px; height: 55px;">
-                        <i class="-balance-scale fa-2x"></i><img class="w-100" src="../img/Marytech Logo_Red-03.png" alt="Image">
+                        <i class="-balance-scale fa-2x"></i><img class="w-100" src="./img/Marytech Logo_Red-03.png" alt="Image">
                     </div>
                     <h5 class="mb-3">IT Consulting</h5>
+                    <h5>gv</h5>
                     <p class="mb-0">Our strategic IT consulting will help you automate and digitalize operations, optimize the software portfolio, and implement the latest technologies.</p>
-                    <a href="../html/services/it-consulting.html" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
+
+                    <a href="./html/services/it-consulting.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Learn more</a>
                 </div>
             </div>
         </div>
@@ -140,7 +142,7 @@
             </div>
             <div class="col-lg-6" style="min-height: 400px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100" src="../img/woman.png" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100" src="./img/woman.png" style="object-fit: cover;">
                 </div>
             </div>
         </div>
@@ -203,14 +205,10 @@
 
 
     <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="../lib/easing/easing.min.js"></script>
-    <script src="../lib/waypoints/waypoints.min.js"></script>
-    <script src="../lib/owlcarousel/owl.carousel.min.js"></script>
+    <?php
 
-    <!-- Template Javascript -->
-    <script src="../js/main.js"></script>
+    include("./includes/javascript.php")
+    ?>
     </body>
 
 </html>

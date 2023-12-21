@@ -43,7 +43,7 @@
                 <div class="h-100 d-flex flex-column justify-content-center bg-primary p-5">
                     <div class="d-flex text-white mb-5">
                         <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white text-primary rounded-circle mx-auto mb-4" style="width: 60px; height: 60px;">
-                            <i class="fa -user-tie fs-4"></i><img class="w-100" src="../img/Marytech Logo_Red-03.png" alt="Image">
+                            <i class="fa -user-tie fs-4"></i><img class="w-100" src="./img/Marytech Logo_Red-03.png" alt="Image">
                         </div>
                         <div class="ps-4">
                             <h3>Business Analysis</h3>
@@ -52,7 +52,7 @@
                     </div>
                     <div class="d-flex text-white mb-5">
                         <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white text-primary rounded-circle mx-auto mb-4" style="width: 60px; height: 60px;">
-                            <i class="fa -chart-line fs-4"></i><img class="w-100" src="../img/Marytech Logo_Red-03.png" alt="Image">
+                            <i class="fa -chart-line fs-4"></i><img class="w-100" src="./img/Marytech Logo_Red-03.png" alt="Image">
                         </div>
                         <div class="ps-4">
                             <h3>System analysis and design</h3>
@@ -61,7 +61,7 @@
                     </div>
                     <div class="d-flex text-white">
                         <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white text-primary rounded-circle mx-auto mb-4" style="width: 60px; height: 60px;">
-                            <i class="fa -balance-scale fs-4"></i><img class="w-100" src="../img/Marytech Logo_Red-03.png" alt="Image">
+                            <i class="fa -balance-scale fs-4"></i><img class="w-100" src="./img/Marytech Logo_Red-03.png" alt="Image">
                         </div>
                         <div class="ps-4">
                             <h3>ERP software Implemenation Consulting</h3>
@@ -84,7 +84,7 @@
         <div class="row g-5">
             <div class="col-lg-4">
                 <div class="team-item position-relative overflow-hidden">
-                    <img class="img-fluid w-100" src="../img/Joe.png" alt="">
+                    <img class="img-fluid w-100" src="./img/Joe.png" alt="">
                     <div class="team-text w-100 position-absolute top-50 text-center bg-primary p-4">
                         <h3 class="text-white">Joelson T Mvundura</h3>
                         <p class="text-white text-uppercase mb-0">IT & Development Manager</p>
@@ -93,7 +93,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="team-item position-relative overflow-hidden">
-                    <img class="img-fluid w-100" src="../img/Bizamare Beloved (4).JPG" alt="">
+                    <img class="img-fluid w-100" src="./img/Bizamare Beloved (4).JPG" alt="">
                     <div class="team-text w-100 position-absolute top-50 text-center bg-primary p-4">
                         <h3 class="text-white">Beloved Bizamare</h3>
                         <p class="text-white text-uppercase mb-0">Digital transformation & Digital Marketing Practioner.</p>
@@ -102,7 +102,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="team-item position-relative overflow-hidden">
-                    <img class="img-fluid w-100" src="../img/team-3.jpg" alt="">
+                    <img class="img-fluid w-100" src="./img/team-3.jpg" alt="">
                     <div class="team-text w-100 position-absolute top-50 text-center bg-primary p-4">
                         <h3 class="text-white">Blessed Mangaiso</h3>
                         <p class="text-white text-uppercase mb-0">Animator & 3D Product Design Manager</p>
@@ -169,14 +169,10 @@
 
 
     <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="../lib/easing/easing.min.js"></script>
-    <script src="../lib/waypoints/waypoints.min.js"></script>
-    <script src="../lib/owlcarousel/owl.carousel.min.js"></script>
+    <?php
 
-    <!-- Template Javascript -->
-    <script src="../js/main.js"></script>
+    include("./includes/javascript.php")
+    ?>
     </body>
 
 </html>
