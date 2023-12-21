@@ -41,7 +41,7 @@
               <a href="about.php" class="nav-item nav-link">About</a>
               <a href="service.php" class="nav-item nav-link">Services</a>
               <div class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Academics</a>
                   <div class="dropdown-menu m-0">
                       <a href="./html/pages/blog.php" class="dropdown-item">Blog Grid</a>
                       <a href="html/pages/detail.php" class="dropdown-item">Blog Detail</a>
